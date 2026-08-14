@@ -93,3 +93,11 @@ Edge detection using the Sobel operator — early hands-on work in Computer Visi
     <img src="https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail" />
   </a>
 </p>
+
+## 🎮 Little Something I Built
+
+Take a quick break from scrolling through my repositories.
+
+[🎮 Play Typing Challenge](https://galizadeani.github.io/galiza-typing-challenge/)
+
+<br>
