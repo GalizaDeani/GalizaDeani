@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @GalizaDeani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi, I'm Galiza 👋</h1>
+<p align="center">
+  Informatics student exploring AI, ML, and the messy space between data and code.
+</p>
 
-<!---
-GalizaDeani/GalizaDeani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Learning+by+building%2C+not+just+reading;Currently+exploring+AI+%26+Computer+Vision;Still+figuring+it+out+%E2%80%94+one+repo+at+a+time" alt="Typing SVG" />
+</p>
+
+<br>
