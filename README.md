@@ -86,7 +86,7 @@ Edge detection using the Sobel operator — early hands-on work in Computer Visi
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/galiza-deani">
+  <a href="https://www.linkedin.com/in/galiza-deani">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:galizadeani20@gmail.com">
