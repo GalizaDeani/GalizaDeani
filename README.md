@@ -77,8 +77,8 @@ Edge detection using the Sobel operator — early hands-on work in Computer Visi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GalizaDeani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalizaDeani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GalizaDeani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalizaDeani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
 </p>
 
 <br>
