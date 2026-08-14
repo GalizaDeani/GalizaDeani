@@ -8,3 +8,11 @@
 </p>
 
 <br>
+
+## 👨‍💻 About Me
+
+I study Informatics, and honestly most of what I've learned came from just building stuff and breaking it. Right now I'm messing around with AI, Machine Learning, Data Science, and Computer Vision, plus doing web/software dev on the side.
+
+The biggest thing I've built so far is a procurement document system for a government agency — actual real-world usage, not just a class assignment. I'm still learning a lot of this as I go. No expert claims here, just repos I've actually built.
+
+<br>
