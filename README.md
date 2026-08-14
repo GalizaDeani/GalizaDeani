@@ -26,3 +26,59 @@ The biggest thing I've built so far is a procurement document system for a gover
 🤝 Open to   → connecting with other IT students and devs
 
 <br>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+
+**AI / Data**
+
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?style=flat-square&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=flat-square&logo=opencv)
+
+**Web**
+
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visualstudiocode)
+
+<br>
+
+## 🚀 Featured Projects
+
+**[coffee-genz-website](https://github.com/GalizaDeani/coffee-genz-website)**
+A Gen Z coffee lifestyle website with an interactive mood-based coffee recommender.
+`HTML` `CSS` `JavaScript`
+
+**[Project-Konan](https://github.com/GalizaDeani/Project-Konan)**
+Procurement document management system built for a government agency (BPS Kota Sukabumi).
+`Laravel` `PHP` `Blade`
+
+**[IrisClassfier](https://github.com/GalizaDeani/IrisClassfier)**
+Machine learning model deployment on the classic Iris dataset.
+`Python`
+
+**[Praktikum-Deteksi-Tepi-Sobel-Galiza](https://github.com/GalizaDeani/Praktikum-Deteksi-Tepi-Sobel-Galiza)**
+Edge detection using the Sobel operator — early hands-on work in Computer Vision.
+`Python`
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GalizaDeani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalizaDeani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
+</p>
+
+<br>
