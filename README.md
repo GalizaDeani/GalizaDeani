@@ -101,3 +101,11 @@ Take a quick break from scrolling through my repositories.
 [🎮 Play Typing Challenge](https://galizadeani.github.io/galiza-typing-challenge/)
 
 <br>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GalizaDeani/GalizaDeani/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+</p>
+
+<br>
