@@ -16,3 +16,13 @@ I study Informatics, and honestly most of what I've learned came from just build
 The biggest thing I've built so far is a procurement document system for a government agency — actual real-world usage, not just a class assignment. I'm still learning a lot of this as I go. No expert claims here, just repos I've actually built.
 
 <br>
+
+## 🌱 Currently
+
+🔭 Building  → a Gen Z coffee lifestyle website with a mood-based recommender
+🌱 Learning  → Machine Learning model deployment
+🧠 Exploring → Computer Vision basics (edge detection)
+🛠️ Improving → Laravel/PHP skills through a real procurement system
+🤝 Open to   → connecting with other IT students and devs
+
+<br>
